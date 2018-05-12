@@ -1,0 +1,38 @@
+_repo: The-Red-True-Story-Book_27603
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ford, H. J. (Henry Justice)
+    alias: Ford, Henry Justice
+    birthdate: 1860
+    deathdate: 1941
+    gutenberg_agent_id: '26630'
+    url: http://www.gutenberg.org/2009/agents/26630
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Justice_Ford
+covers:
+- cover_type: archival
+  image_path: 27603-h/images/icover.jpg
+creator:
+  editor:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_issued: '2008-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27603'
+  lccn: 04017977
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'History'
+title: The Red True Story Book
+url: http://www.gutenberg.org/ebooks/27603
